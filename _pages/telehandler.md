@@ -13,6 +13,18 @@ Industry-sponsored senior design project focused on integrating fork positioning
 
 ---
 
+<iframe
+  width="100%"
+  height="480"
+  src="https://www.youtube.com/embed/bvTG7fRmisg?si=rBlbWseSe8Yg0Eje"
+  title="FPSS Carriage Demo"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+---
+
 ## Problem Definition
 Design a carriage capable of supporting a 12,000 lb rated load under worst-case loading conditions while remaining manufacturable and serviceable.
 
