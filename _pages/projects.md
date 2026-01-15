@@ -23,8 +23,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-Selected engineering projects highlighting design, analysis, and manufacturing-focused problem solving.
-
 {% include feature_row col=2 %}
 
 
