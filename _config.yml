@@ -3,6 +3,26 @@ description: Mechanical Engineering Portfolio
 url: "https://mjarvismechengr.github.io"
 baseurl: ""
 
+author:
+  name: "Max Jarvis"
+  avatar: "/assets/images/headshot.jpg"
+  bio: "Mechanical engineering graduate focused on design, analysis, and manufacturing."
+  location: "Las Vegas, NV"   
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mjarvis.mechengr@gmail.com"
+    - label: "Portfolio"
+      icon: "fas fa-link"
+      url: "https://mjarvismechengr.github.io"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/mjarvismechengr"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/max-jarvis-708039253/"
+
+
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 plugins:
