@@ -2,7 +2,7 @@
 title: "Projects"
 layout: single
 permalink: /projects/
-classes: wide centered
+classes: wide Centered
 
 
 feature_row:
