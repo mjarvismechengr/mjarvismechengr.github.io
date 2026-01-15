@@ -1,9 +1,21 @@
-/* Center text only on pages marked with .centered */
+---
+# Only the front matter is required (it tells Jekyll to process SCSS)
+---
+
+@charset "utf-8";
+
+/* Load the Minimal Mistakes theme skin + core */
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* ---- Your custom overrides below ---- */
+
+/* Center text on pages where you add: classes: centered */
 .centered .page__content {
   text-align: center;
 }
 
-/* Center feature_row titles and excerpts */
+/* Center feature row card text (titles/excerpts) */
 .centered .feature__title,
 .centered .archive__item-title,
 .centered .archive__item-excerpt {
