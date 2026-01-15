@@ -12,11 +12,13 @@
    Custom overrides (below)
    ================================ */
 
-/* Center ONLY the project tiles (feature rows) */
-.feature__wrapper,
-.feature__item,
-.feature__item .archive__item-body,
 .feature__item .archive__item-title,
-.feature__item .archive__item-excerpt {
+.feature__item .feature__title {
   text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+/* Ensure excerpts remain left-aligned */
+.feature__item .archive__item-excerpt {
+  text-align: left;
 }
