@@ -5,16 +5,13 @@ baseurl: ""
 
 author:
   name: "Max Jarvis"
-  avatar: "/assets/other/headshot.jpg"
+  avatar: "/assets/other/headshot.jpeg"
   bio: "Mechanical engineering graduate focused on design, analysis, and manufacturing."
   location: "Las Vegas, NV"   
   links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mjarvis.mechengr@gmail.com"
-    - label: "Portfolio"
-      icon: "fas fa-link"
-      url: "https://mjarvismechengr.github.io"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/mjarvismechengr"
