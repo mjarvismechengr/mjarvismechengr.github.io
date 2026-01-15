@@ -2,6 +2,8 @@
 title: "Projects"
 layout: single
 permalink: /projects/
+classes: wide
+---
 
 feature_row:
   - image_path: /assets/projects/telehandler/fpss-carriage.jpg
@@ -23,5 +25,6 @@ feature_row:
 
 Selected engineering projects highlighting design, analysis, and manufacturing-focused problem solving.
 
-{% include feature_row type="center" %}
+{% include feature_row col=2 %}
+
 
