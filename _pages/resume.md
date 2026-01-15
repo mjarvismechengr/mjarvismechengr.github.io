@@ -9,7 +9,7 @@ permalink: /resume/
 ---
 
 <iframe
-  src="/resume.pdf#view=FitH"
+  src="/current-resume.pdf#view=FitH"
   width="100%"
   height="875"
   style="
