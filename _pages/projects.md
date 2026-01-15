@@ -23,6 +23,25 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+<style>
+  /* Center the page title and intro */
+  .page__title,
+  .page__content {
+    text-align: center;
+  }
+
+  /* Center the feature row cards */
+  .feature__wrapper,
+  .feature__item,
+  .archive__item-title,
+  .archive__item-excerpt,
+  .feature__title {
+    text-align: center;
+  }
+</style>
+
+
+
 {% include feature_row col=2 %}
 
 
