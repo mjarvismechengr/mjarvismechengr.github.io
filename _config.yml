@@ -1,0 +1,11 @@
+title: Max Jarvis
+description: Mechanical Engineering Portfolio
+url: "https://mjarvismechengr.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
