@@ -23,4 +23,5 @@ feature_row:
 
 Selected engineering projects highlighting design, analysis, and manufacturing-focused problem solving.
 
-{% include feature_row %}
+{% include feature_row type="center" %}
+
