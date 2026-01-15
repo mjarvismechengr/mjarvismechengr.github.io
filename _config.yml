@@ -15,5 +15,5 @@ minimal_mistakes_skin: "default"
 
 assets:
   css:
-    - /assets/css/custom.css
+    - /assets/css/main.scss
     
