@@ -1,7 +1,7 @@
 ---
 title: "Telehandler FPSS Carriage"
 layout: single
-permalink: /projects/FPSS Carriage/
+permalink: /projects/telehandler/
 ---
 
 ## Overview
