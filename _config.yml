@@ -12,3 +12,8 @@ include:
   - _pages
 
 minimal_mistakes_skin: "default"
+
+assets:
+  css:
+    - /assets/css/custom.css
+    
