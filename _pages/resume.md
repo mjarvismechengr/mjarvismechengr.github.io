@@ -4,14 +4,14 @@ layout: single
 permalink: /resume/
 ---
 
-[Download Resume](/resume.pdf)
+[Download Resume](/current-resume.pdf)
 
 ---
 
 <iframe
   src="/resume.pdf#view=FitH"
   width="100%"
-  height="900"
+  height="875"
   style="
     border: 1px solid #e5e7eb;
     border-radius: 10px;
