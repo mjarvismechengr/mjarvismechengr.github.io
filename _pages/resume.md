@@ -11,7 +11,7 @@ permalink: /resume/
 <iframe
   src="/current-resume.pdf#view=FitH"
   width="100%"
-  height="800"
+  height="825"
   style="
     border: 1px solid #e5e7eb;
     border-radius: 10px;
