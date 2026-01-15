@@ -3,7 +3,7 @@ title: "Projects"
 layout: single
 permalink: /projects/
 classes: wide
----
+
 
 feature_row:
   - image_path: /assets/projects/telehandler/fpss-carriage.jpg
