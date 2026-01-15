@@ -6,7 +6,7 @@ permalink: /projects/
 feature_row:
   - image_path: /assets/projects/telehandler/fpss-carriage.jpg
     alt: "Telehandler carriage CAD"
-    title: "Telehandler Carriage Design"
+    title: "FPSS Telehandler Carriage"
     excerpt: "Industry-sponsored capstone focused on structural design, FEA validation, and manufacturable CAD."
     url: /projects/telehandler/
     btn_label: "View Project"
