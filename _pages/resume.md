@@ -9,8 +9,12 @@ permalink: /resume/
 ---
 
 <iframe
-  src="/resume.pdf"
+  src="/resume.pdf#view=FitH"
   width="100%"
-  height="1100px"
-  style="border: 1px solid #ddd; border-radius: 8px;"
+  height="900"
+  style="
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  "
 ></iframe>
