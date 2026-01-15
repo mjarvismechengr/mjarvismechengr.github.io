@@ -1,0 +1,22 @@
+---
+# Front matter required for Jekyll to process SCSS
+---
+
+@charset "utf-8";
+
+/* Load Minimal Mistakes */
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* ================================
+   Custom overrides (below)
+   ================================ */
+
+/* Center ONLY the project tiles (feature rows) */
+.feature__wrapper,
+.feature__item,
+.feature__item .archive__item-body,
+.feature__item .archive__item-title,
+.feature__item .archive__item-excerpt {
+  text-align: center;
+}
