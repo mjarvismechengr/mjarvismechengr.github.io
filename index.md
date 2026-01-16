@@ -2,7 +2,7 @@
 layout: home
 author_profile: false
 title: "Max Jarvis"
-excerpt: "Mechanical Engineering Portfolio"
+subtitle: "Mechanical Engineering Portfolio"
 ---
 
 Mechanical Engineering graduate focused on design, analysis, and manufacturing.
