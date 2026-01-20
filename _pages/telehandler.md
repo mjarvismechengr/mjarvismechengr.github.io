@@ -20,6 +20,28 @@ classes: wide
 ## Overview
 
 <div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin: 1.5rem 0;">
+
+  <!-- LEFT: Text -->
+  <div style="flex: 1.2; min-width: 260px;">
+    <p style="margin-top:0;">
+      This project developed a prototype FPSS carriage intended for a 12,000 lb rated-load class telehandler attachment.
+      The objective was to integrate fork positioning and side-shift functionality into a single carriage while maintaining
+      structural integrity under worst-case loading and producing a manufacturable, serviceable assembly.
+    </p>
+
+    
+    <p style="margin-bottom:0;">
+  Emphasis:
+</p>
+<ul style="margin-top:0.25rem;">
+  <li>Standards-driven load cases</li>
+  <li>Validation through hand calcs + simulation review</li>
+  <li>Hands-on assembly and integration</li>
+</ul>
+
+  </div>
+
+  <!-- RIGHT: Image -->
   <div style="flex: 1.6; min-width: 320px;">
     <img
       src="/assets/projects/telehandler/fpss-carriage.jpg"
@@ -28,18 +50,6 @@ classes: wide
     />
   </div>
 
-  <div style="flex: 1.2; min-width: 260px;">
-    <p style="margin-top:0;">
-      This project developed a prototype FPSS carriage intended for a 12,000 lb rated-load class telehandler attachment.
-      The objective was to integrate fork positioning and side-shift functionality into a single carriage while maintaining
-      structural integrity under worst-case loading and producing a manufacturable, serviceable assembly.
-    </p>
-
-    <p>
-      The design emphasized realistic operating conditions, standards-driven load cases, and iterative validation through
-      calculation, simulation, and hands-on assembly.
-    </p>
-  </div>
 </div>
 
 ---
@@ -86,7 +96,33 @@ Hand calculations were used to:
 - Size critical structural members
 - Identify geometry changes with the greatest influence on load paths
 
-### 3) FEA Review & Iteration
+### 3) CAD Development
+
+<div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin: 1.5rem 0;">
+  <div style="flex: 1.6; min-width: 320px;">
+    <img
+      src="/assets/projects/telehandler/fpss-cad-design.png"
+      alt="FPSS carriage CAD design"
+      style="width:100%; max-width:750px; border-radius:14px; display:block; margin:0 auto;"
+    />
+  </div>
+
+  <div style="flex: 1.2; min-width: 260px;">
+    <p style="margin-top:0;">
+      CAD models were iterated alongside analysis to reflect updated geometry, load paths,
+      and manufacturability considerations. Design changes were driven by identified stress
+      drivers, connection behavior, and practical fabrication constraints.
+    </p>
+
+    <ul>
+      <li>Iterative geometry updates driven by analysis</li>
+      <li>Clear load paths and serviceable connections</li>
+      <li>Manufacturable plate geometry and weldable features</li>
+    </ul>
+  </div>
+</div>
+
+### 4) FEA Review & Iteration
 
 <div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin: 1.5rem 0;">
   <div style="flex: 1.2; min-width: 260px;">
@@ -115,32 +151,6 @@ Hand calculations were used to:
       and manufacturability considerations. Design changes were driven by identified stress
       drivers, connection behavior, and practical fabrication constraints.
     </p>
-  </div>
-</div>
-
-### 4) CAD Development
-
-<div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin: 1.5rem 0;">
-  <div style="flex: 1.6; min-width: 320px;">
-    <img
-      src="/assets/projects/telehandler/fpss-cad-design.png"
-      alt="FPSS carriage CAD design"
-      style="width:100%; max-width:750px; border-radius:14px; display:block; margin:0 auto;"
-    />
-  </div>
-
-  <div style="flex: 1.2; min-width: 260px;">
-    <p style="margin-top:0;">
-      CAD models were iterated alongside analysis to reflect updated geometry, load paths,
-      and manufacturability considerations. Design changes were driven by identified stress
-      drivers, connection behavior, and practical fabrication constraints.
-    </p>
-
-    <ul>
-      <li>Iterative geometry updates driven by analysis</li>
-      <li>Clear load paths and serviceable connections</li>
-      <li>Manufacturable plate geometry and weldable features</li>
-    </ul>
   </div>
 </div>
 
