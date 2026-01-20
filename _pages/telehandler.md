@@ -2,7 +2,7 @@
 title: "Telehandler FPSS Carriage"
 layout: single
 permalink: /projects/telehandler/
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
@@ -20,15 +20,15 @@ classes: wide
 ## Overview
 
 <div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin: 1.5rem 0;">
-  <div style="flex: 1; min-width: 260px;">
+  <div style="flex: 1.6; min-width: 320px;">
     <img
       src="/assets/projects/telehandler/fpss-carriage.jpg"
       alt="FPSS carriage prototype"
-      style="width:100%; max-width:520px; border-radius:14px; display:block; margin:0 auto;"
+      style="width:100%; max-width:750px; border-radius:14px; display:block; margin:0 auto;"
     />
   </div>
 
-  <div style="flex: 2; min-width: 280px;">
+  <div style="flex: 1.2; min-width: 260px;">
     <p style="margin-top:0;">
       This project developed a prototype FPSS carriage intended for a 12,000 lb rated-load class telehandler attachment.
       The objective was to integrate fork positioning and side-shift functionality into a single carriage while maintaining
@@ -89,7 +89,7 @@ Hand calculations were used to:
 ### 3) FEA Review & Iteration
 
 <div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin: 1.5rem 0;">
-  <div style="flex: 2; min-width: 280px;">
+  <div style="flex: 1.2; min-width: 260px;">
     <p style="margin-top:0;">
       Finite element results were reviewed to confirm global stress trends, identify localized hotspots, and compare against
       hand-calculated expectations as a sanity check. Insights from simulation guided iterative geometry updates and improved
@@ -108,19 +108,40 @@ Hand calculations were used to:
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 260px;">
+  <div style="flex: 1.6; min-width: 320px;">
     <img
       src="/assets/projects/telehandler/fpss-carriage-fea.png"
       alt="Representative FEA stress visualization"
-      style="width:100%; max-width:520px; border-radius:14px; display:block; margin:0 auto;"
+      style="width:100%; max-width:750px; border-radius:14px; display:block; margin:0 auto;"
     />
   </div>
 </div>
 
 ### 4) CAD Development
-![FPSS carriage CAD design](/assets/projects/telehandler/fpss-cad-design.png)
 
-CAD models were iterated alongside analysis to reflect updated geometry, load paths, and manufacturability considerations.
+<div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin: 1.5rem 0;">
+  <div style="flex: 1.6; min-width: 320px;">
+    <img
+      src="/assets/projects/telehandler/fpss-cad-design.png"
+      alt="FPSS carriage CAD design"
+      style="width:100%; max-width:750px; border-radius:14px; display:block; margin:0 auto;"
+    />
+  </div>
+
+  <div style="flex: 1.2; min-width: 260px;">
+    <p style="margin-top:0;">
+      CAD models were iterated alongside analysis to reflect updated geometry, load paths,
+      and manufacturability considerations. Design changes were driven by identified stress
+      drivers, connection behavior, and practical fabrication constraints.
+    </p>
+
+    <ul>
+      <li>Iterative geometry updates driven by analysis</li>
+      <li>Clear load paths and serviceable connections</li>
+      <li>Manufacturable plate geometry and weldable features</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -160,11 +181,6 @@ While the project’s primary design focus was structural, FPSS functionality re
       <li>Fabricated and installed a wiring harness interfacing with attachment controls</li>
       <li>Supported functional checks during final assembly</li>
     </ul>
-
-    <p style="font-size:0.95rem; opacity:0.85; margin: 0.5rem 0 0;">
-      <em>Branding visible for context only.</em>
-    </p>
-  </div>
 
   <div style="flex: 1; min-width: 260px;">
     <img
