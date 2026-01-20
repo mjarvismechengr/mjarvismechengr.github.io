@@ -26,6 +26,21 @@ The design emphasized realistic operating conditions, standards-driven load case
 
 ---
 
+## Prototype Demonstration (Unlisted)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe
+    src="https://www.youtube.com/embed/bvTG7fRmisg?si=rBlbWseSe8Yg0Eje"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+*Video is unlisted and accessible only via this portfolio.*
+
+---
+
 ## Requirements & Constraints
 
 Design requirements were informed by ANSI/ITSDF B56.6, governing rough-terrain forklift and telehandler attachments.
@@ -83,7 +98,7 @@ While the project’s primary design focus was structural, FPSS functionality re
 <img
   src="/assets/projects/telehandler/fpss-hydraulic-manifold.jpg"
   alt="Hydraulic hose routing supporting FPSS actuation"
-  style="max-width: 700px; width: 100%; display: block; margin: 1.5rem auto;"
+  style="max-width: 550px; width: 100%; display: block; margin: 1.5rem auto;"
 />
 
 - Sized hydraulic cylinders and hoses based on required forces, stroke, and system pressure
@@ -96,7 +111,7 @@ While the project’s primary design focus was structural, FPSS functionality re
 <img
   src="/assets/projects/telehandler/fpss-cable-reel.jpg"
   alt="Boom-mounted cable reel supporting attachment electrical routing"
-  style="max-width: 700px; width: 100%; display: block; margin: 1.5rem auto;"
+  style="max-width: 550px; width: 100%; display: block; margin: 1.5rem auto;"
 />
 
 - Evaluated electrical routing approaches (boom-mounted cable reel vs. internal cable control)
