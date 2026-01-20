@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 author_profile: false
 classes: wide
---
+---
 
 <div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap;">
   <div style="flex: 2; min-width: 280px;">
