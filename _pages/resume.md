@@ -2,6 +2,8 @@
 title: "Resume"
 layout: single
 permalink: /resume/
+author_profile: true
+classes: wide
 ---
 
 [Download Resume](/current-resume.pdf)
