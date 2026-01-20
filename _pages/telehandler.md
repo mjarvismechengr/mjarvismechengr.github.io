@@ -4,7 +4,7 @@ layout: single
 permalink: /projects/telehandler/
 ---
 
-> *Project details have been generalized and visuals sanitized to protect proprietary information.*
+> *Project details have been generalized and visuals sanitized to protect proprietary information. Images are shown for illustrative purposes only. Company branding is incidental and does not imply endorsement.*
 
 ## At a Glance
 **Project:** Fork Positioning + Side-Shift (FPSS) telehandler carriage prototype  
