@@ -2,6 +2,8 @@
 title: "Telehandler FPSS Carriage"
 layout: single
 permalink: /projects/telehandler/
+author_profile: false
+classes: wide
 ---
 
 > *Project details have been generalized and visuals sanitized to protect proprietary information. Images are shown for illustrative purposes only. Company branding is incidental and does not imply endorsement.*
