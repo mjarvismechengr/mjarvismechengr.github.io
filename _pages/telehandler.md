@@ -80,7 +80,7 @@ CAD models were iterated alongside analysis to reflect updated geometry, load pa
 While the project’s primary design focus was structural, FPSS functionality required coordinated hydraulic and electrical system integration.
 
 ### Hydraulics
-![Hydraulic hose routing supporting FPSS actuation](/assets/projects/telehandler/fpss-hydraulic-manifold.png)
+![Hydraulic hose routing supporting FPSS actuation](/assets/projects/telehandler/fpss-hydraulic-manifold.jpg)
 
 - Sized hydraulic cylinders and hoses based on required forces, stroke, and system pressure
 - Selected hose and fitting specifications compatible with available auxiliary circuits
@@ -89,7 +89,7 @@ While the project’s primary design focus was structural, FPSS functionality re
 - Verified clearances, bend radii, and serviceability through full-range motion
 
 ### Electrical
-![Boom-mounted cable reel supporting attachment electrical routing](/assets/projects/telehandler/fpss-cable-reel.png)
+![Boom-mounted cable reel supporting attachment electrical routing](/assets/projects/telehandler/fpss-cable-reel.jpg)
 
 - Evaluated electrical routing approaches (boom-mounted cable reel vs. internal cable control)
 - Selected and installed a cable reel to support attachment electrical requirements
