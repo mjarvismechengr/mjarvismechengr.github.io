@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-> *Project details have been generalized and visuals sanitized to protect proprietary information. Images are shown for illustrative purposes only. Company branding is incidental and does not imply endorsement.*
+> *Project details have been generalized to protect proprietary information. Images are shown for illustrative purposes only. Any company branding is incidental and does not imply endorsement.*
 
 ## At a Glance
 **Project:** Fork Positioning + Side-Shift (FPSS) telehandler carriage prototype  
