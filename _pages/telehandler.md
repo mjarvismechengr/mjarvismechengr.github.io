@@ -120,27 +120,31 @@ Hand calculations were used to:
 ### 4) CAD Development
 
 <div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin: 1.5rem 0;">
+
+  <!-- LEFT: Text -->
+  <div style="flex: 1.2; min-width: 260px;">
+    <ul style="margin-top:0;">
+      <li>Iterative geometry updates driven by analysis</li>
+      <li>Clear load paths and serviceable connections</li>
+      <li>Manufacturable plate geometry and weldable features</li>
+    </ul>
+  </div>
+
+  <!-- RIGHT: Image + description -->
   <div style="flex: 1.6; min-width: 320px;">
     <img
       src="/assets/projects/telehandler/fpss-cad-design.png"
       alt="FPSS carriage CAD design"
       style="width:100%; max-width:750px; border-radius:14px; display:block; margin:0 auto;"
     />
-  </div>
 
-  <div style="flex: 1.2; min-width: 260px;">
-    <p style="margin-top:0;">
+    <p style="margin-top:0.75rem; font-size:0.95rem; opacity:0.85;">
       CAD models were iterated alongside analysis to reflect updated geometry, load paths,
       and manufacturability considerations. Design changes were driven by identified stress
       drivers, connection behavior, and practical fabrication constraints.
     </p>
-
-    <ul>
-      <li>Iterative geometry updates driven by analysis</li>
-      <li>Clear load paths and serviceable connections</li>
-      <li>Manufacturable plate geometry and weldable features</li>
-    </ul>
   </div>
+
 </div>
 
 ---
@@ -181,6 +185,7 @@ While the project’s primary design focus was structural, FPSS functionality re
       <li>Fabricated and installed a wiring harness interfacing with attachment controls</li>
       <li>Supported functional checks during final assembly</li>
     </ul>
+  </div>
 
   <div style="flex: 1; min-width: 260px;">
     <img
