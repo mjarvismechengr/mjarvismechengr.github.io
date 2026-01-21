@@ -19,9 +19,8 @@ classes: wide
 
     <h3>Contact</h3>
     <ul>
-      <li><a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a></li>
-      <li><a href="https://www.linkedin.com/in/YOUR">LinkedIn</a></li>
-      <li><a href="https://github.com/YOUR">GitHub</a></li>
+      <li><a href="mailto:mjarvis.mechengr@gmail.com">Email</a></li>
+      <li><a href="https://www.linkedin.com/in/max-jarvis-708039253">LinkedIn</a></li>
     </ul>
   </div>
 
