@@ -2,6 +2,7 @@
 layout: home
 author_profile: true
 show_posts: false
+classes: wide
 title: "Max Jarvis"
 ---
 
