@@ -1,8 +1,7 @@
 ---
 layout: home
 author_profile: true
-show_posts: false
-classes: wide
+paginate: false
 title: "Max Jarvis"
 ---
 
