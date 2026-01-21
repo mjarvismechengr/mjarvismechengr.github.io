@@ -2,7 +2,7 @@
 title: "About Me"
 layout: single
 permalink: /about/
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
@@ -15,12 +15,6 @@ classes: wide
       <li>Mechanical Design / Product Development</li>
       <li>Manufacturing / Test / Systems Integration</li>
       <li>Equipment / Heavy machinery / electromechanical systems</li>
-    </ul>
-
-    <h3>Contact</h3>
-    <ul>
-      <li><a href="mailto:mjarvis.mechengr@gmail.com">Email</a></li>
-      <li><a href="https://www.linkedin.com/in/max-jarvis-708039253">LinkedIn</a></li>
     </ul>
   </div>
 
