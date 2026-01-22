@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Max Jarvis"
 author_profile: true
 classes: wide
