@@ -1,8 +1,8 @@
 ---
 layout: home
-author_profile: true
-paginate: false
 title: "Max Jarvis"
+author_profile: true
+classes: wide
 ---
 
 Mechanical Engineering graduate focused on design, analysis, and manufacturing.
