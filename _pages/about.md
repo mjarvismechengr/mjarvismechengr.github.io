@@ -22,3 +22,13 @@ classes: wide
       <li>Mechanical design, analysis, or product development roles</li>
       <li>Exposure to manufacturing, testing, and system-level integration</li>
     </ul>
+
+
+<div style="flex: 1; min-width: 220px;">
+    <img
+      src="/assets/other/headshot.jpg"
+      alt="Headshot of Max Jarvis"
+      style="width:100%; max-width:320px; border-radius:16px; display:block; margin:0 auto;"
+    />
+  </div>
+</div>
