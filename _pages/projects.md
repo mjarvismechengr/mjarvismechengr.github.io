@@ -14,22 +14,6 @@ feature_row:
     url: /projects/telehandler/
     btn_label: "View Project"
     btn_class: "btn--primary"
-
-  - image_path: /assets/images/matlab.jpg
-    alt: "MATLAB plots"
-    title: "Structural Analysis Tools (MATLAB)"
-    excerpt: "Beam/load utilities including shear and moment diagram generation with hand-calc checks."
-    url: /projects/matlab-tools/
-    btn_label: "View Project"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/matlab.jpg
-    alt: "MATLAB plots"
-    title: "Structural Analysis Tools (MATLAB)"
-    excerpt: "Beam/load utilities including shear and moment diagram generation with hand-calc checks."
-    url: /projects/matlab-tools/
-    btn_label: "View Project"
-    btn_class: "btn--primary"
     
 ---
 
